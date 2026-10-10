@@ -4,4 +4,6 @@
 
 ローカル確認： `python3 -m http.server 8000`
 
-リポジトリは非公開で作成し、GitHub Pagesの公開設定は行っていません。アプリ内のサポートURLを有効にするには、サイトの公開先を設定してください。
+GitHub Pagesで公開： https://hanachiru.github.io/dopatakken-site/
+
+`main` ブランチのルートを公開します。リポジトリはPublicです。ここにはサイトのHTML・CSS・アイコンだけを保存し、アプリのソース・学習履歴・認証情報は含めません。
